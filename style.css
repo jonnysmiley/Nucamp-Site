@@ -1,0 +1,76 @@
+h1, h2, h3 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.nucampfont {
+    font-family: 'Bebas Neue', cursive;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+    color: #7F8D53;
+}
+
+.snd-color {
+    color: #F5C66B;
+}
+
+header h2 {
+    color: #cec8ff;
+}
+
+.nucamp-colr {
+    background-color: #D88147;
+    color: #F5C66B;
+}
+
+.nucamp-colr-2 {
+    color: #41382E;
+}
+
+.search-color {
+    background-color: #DD5350;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: #7F8D53;
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #41382E;
+}
+.site-footer{
+    background-color: #7F8D53;
+    padding: 20px 0;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #41382E;
+}
+
+.trd-color {
+    color: #F5C66B;
+}
+
